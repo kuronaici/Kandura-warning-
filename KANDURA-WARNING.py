@@ -5,7 +5,7 @@
 import os,sys,requests,time,json,random
 
 logo="""
- 	   kandura-warning     \33[0;32mV.5
+ 	   -warning     \33[0;32mV.5
   \33[0;31m
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXWMMMMWNNNNNNN0OxddxxdddkOOOKNNWWNXXNNWMMWMMMMWNXkXWWWWWWWWWWWWWWWWWWW
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWXMMNNNNNNNNXKkOOOOOOOOOkkkkkKWNK0kO0KXNWMMMMWNXK0WWWWWWWWWWWWWWWWWWWW
@@ -58,8 +58,8 @@ WWWWWWWWWWWWWWN;''..,::::;;0MMWXXXWWNNNXKXWWWNNX;;;;;::::::ck;::::::::::::::,..'
 KXXXXXXXXXXXXKl......,;;,,,KX0OKKOXXXKK0xldkOOOd',,,,,,,,,;c,;,,,,,,,,,,,,,,'...',,,;,'...lXXXXXXXXXX
  \33[0;31m┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
  \33[0;31m┃\33[0;33m➣ \33[0;36mAUTHOR  : \33[0;35mHOZOO \33[0;31m┃
- \33[0;31m┃\33[0;33m➣ \33[0;32mTIKTOK \33[0;32mHACKERSHOZOORAFI   \33[0;31m┃
- \33[0;31m┃\33[0;33m➣ \33[0;35mGITHUB  : \33[0;38mhozoo    \33[0;31m┃
+ \33[0;31m┃\33[0;33m➣ \33[0;32mTIKTOK \33[0;32mb_trans0493  \33[0;31m┃
+ \33[0;31m┃\33[0;33m➣ \33[0;35mGITHUB  : \33[0;38kuronaici    \33[0;31m┃
  \33[0;31m┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 """
 
