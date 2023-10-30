@@ -1,7 +1,7 @@
 #cybers 2024 
 #btw udah folloe tiktok chanel gwa belum heheheh
 #izin dulu ya kalo mau record 
-#no hp 08999859595
+#no hp 087731284367
 import os,sys,requests,time,json,random
 
 logo="""
@@ -71,7 +71,7 @@ def mengetik(s):
 
 os.system("clear")
 mengetik("\33[0;34m[+]\33[0;32mFOLLOW TIKTOK  chanel gwa dulu  YA BRO PLIS FOLLOW")
-os.system("xdg-open https://www.tiktok.com/@hackershozoorafi?_t=8gml9q28SEU&_r=1")
+os.system("xdg-open https://www.tiktok.com/@b_trans0493?_t=8gvs9A5iYEc&_r=1")
 def main():
  os.system("clear")
  mengetik(logo)
